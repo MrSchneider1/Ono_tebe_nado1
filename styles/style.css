@@ -79,7 +79,7 @@ body {
     bottom: -1px; 
     width: 100%;
     height: 1px;
-    background-color: black; 
+    background-color: black;
 }
 
 .phone-number {
@@ -294,7 +294,7 @@ body {
     background-color: black; 
 }
 
-.about{
+.about {
     display: grid;
     grid-template-columns: 95px 240px 95px 25px 885px;
     grid-template-rows: 100px 140px 248px;
